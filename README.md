@@ -2,4 +2,4 @@
 
 ![Go](https://github.com/kylerwsm/lambda-links/workflows/Go/badge.svg)
 
-Golang Lambda is a quickstart template to build AWS Lambdas with Golang.
+Golang Lambda is a quick start template to build AWS Lambdas with Golang.
